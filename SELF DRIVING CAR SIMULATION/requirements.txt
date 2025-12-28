@@ -1,0 +1,6 @@
+//
+//streamlit
+//opencv-python
+//numpy
+//if requirements are not there then put this command in the code file terminal
+pip install -r requirements.txt

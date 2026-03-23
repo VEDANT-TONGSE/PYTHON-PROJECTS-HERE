@@ -1,7 +1,7 @@
 import mediapipe as mp
 import cv2
 import time
-from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume
+from pycaw.pycaw import AudioUtilities, IAudioEndpointVolume  
 from ctypes import cast, POINTER
 from comtypes import CLSCTX_ALL
 
